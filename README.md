@@ -1,3 +1,2 @@
 - 🌱 I’m currently learning HTML, CSS, JS, REACT, NODE, SQL, PYTHON
 - 📫 How to reach me: jeffersonvieiratec@gmail.com
-- 😄 Pronouns: he/him
