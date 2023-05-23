@@ -1,17 +1,26 @@
 ![Profile views](https://gpvc.arturio.dev/JeffersonSilemen)
 
 <div align="center">
+  <a href="https://github.com/andreinaoliveira">
+    <img src="welcome.png" width="600">
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/JeffersonSilemen" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&color=rgb(94, 23, 235)&logo=github&logoColor=white" target="_blank">
   </a>
   <a href = "mailto:jeffersonvieiratec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&color=rgb(94, 23, 235)&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/jeffersonsilemen/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&color=rgb(94, 23, 235)&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <br>
 </div>
+
+## ⭐️ Sobre mim
+Estudante de física (7/10) e de ciência da computação(3/8) sou uma pessoa apaixonada pela ciências exatas e suas aplicações. Tenho um perfil analítco, sou bom em lógica e tenho facilidade na resolução de problemas. Atualmente estou a procura de um estágio na área de desenvolvimento. Além das tecnologias que serão apresentadas a seguir tenho disponibilidade para aprendizado de qualquer tecnologia necessária. 
 
 ## ⭐️ Hard Skills
 <div align="center">
