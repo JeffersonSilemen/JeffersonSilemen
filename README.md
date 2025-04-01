@@ -20,7 +20,7 @@
 </div>
 
 ## ⭐️ Sobre mim
-Estudante de física (7/10) e de ciência da computação(3/8) sou uma pessoa apaixonada pela ciências exatas e suas aplicações. Tenho um perfil analítco, sou bom em lógica e tenho facilidade na resolução de problemas. Atualmente estou a procura de um estágio na área de desenvolvimento. Além das tecnologias que serão apresentadas a seguir tenho disponibilidade para aprendizado de qualquer tecnologia necessária. 
+Backgroun em Física e em Ciência da Computação sou uma pessoa apaixonada pela ciências exatas e suas aplicações. Tenho um perfil analítco, sou bom em lógica e tenho facilidade na resolução de problemas. Além das tecnologias que serão apresentadas a seguir tenho disponibilidade para aprendizado de qualquer tecnologia necessária. 
 
 ## ⭐️ Hard Skills
 <div align="center">
