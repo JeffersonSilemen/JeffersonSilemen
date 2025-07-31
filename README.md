@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/JeffersonSilemen)
-
 <div align="center">
   <a href="https://github.com/JeffersonSilemen">
     <img src="welcome.png" width="600">
@@ -18,9 +16,6 @@
   </a>
   <br>
 </div>
-
-## ⭐️ Sobre mim
-Backgroun em Física e em Ciência da Computação sou uma pessoa apaixonada pela ciências exatas e suas aplicações. Tenho um perfil analítco, sou bom em lógica e tenho facilidade na resolução de problemas. Além das tecnologias que serão apresentadas a seguir tenho disponibilidade para aprendizado de qualquer tecnologia necessária. 
 
 ## ⭐️ Hard Skills
 <div align="center">
