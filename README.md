@@ -1,22 +1,3 @@
-<div align="center">
-  <a href="https://github.com/JeffersonSilemen">
-    <img src="welcome.png" width="600">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JeffersonSilemen" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&color=rgb(94, 23, 235)&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:jeffersonvieiratec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&color=rgb(94, 23, 235)&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jeffersonsilemen/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&color=rgb(94, 23, 235)&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <br>
-</div>
-
 ## ⭐️ Hard Skills
 <div align="center">
   <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
